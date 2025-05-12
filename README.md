@@ -39,4 +39,3 @@ Inverte os caracteres de uma string sem usar funções prontas como `reverse`.
 1. Clone este repositório:
 ```bash
 git clone https://github.com/luchilario/esafio-tecnico-2025.git
-d
